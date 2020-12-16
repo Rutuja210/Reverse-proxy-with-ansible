@@ -1,0 +1,9 @@
+[loadBalencer]
+13.126.251.150    ansible_user=root   ansible_ssh_pass=bvcoew  ansible_connectio           n=ssh
+
+[webserver]
+13.233.130.37    ansible_user=root  ansible_ssh_pass=bvcoew     ansible_connecti           on=ssh
+
+
+65.0.80.60   ansible_user=root   ansible_ssh_pass=bvcoew  ansible_connection=ssh
+
